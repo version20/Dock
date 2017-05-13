@@ -1,0 +1,5 @@
+.nuget/**
+.bash_history
+.bowerrc
+.dotnet/
+.templateengine/
